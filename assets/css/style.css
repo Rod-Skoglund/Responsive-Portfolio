@@ -200,9 +200,6 @@ textarea{
         margin: auto auto;
         width: 90%;
     }
-    #main-title {
-        color: blue;
-    }
     }
 
 @media screen and (max-width: 640px) {
@@ -220,9 +217,6 @@ textarea{
     #my-name {
         float: none;
         width: 100%;
-    }
-    #main-title {
-        color: green;
     }
 }
 
